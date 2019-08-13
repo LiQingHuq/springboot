@@ -1,9 +1,5 @@
 package com.scetc.web.service;
 
-
-
-import java.util.List;
-
 /**
  * @Description:类功能描述: 测试框架
  * @author lqh
