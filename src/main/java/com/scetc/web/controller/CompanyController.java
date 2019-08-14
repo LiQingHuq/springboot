@@ -26,7 +26,6 @@ import java.rmi.server.ExportException;
 public class CompanyController  {
     @Autowired
     private CompanyService companyService;
-
     @GetMapping("/getAll")
     @ResponseBody
     public String  getAll()throws IOException {
